@@ -2,13 +2,13 @@
 """
 Created on Thu Jun 21 13:02:50 2018
 
-@author: Jingdong
+@author: Liuyangnorway
 """
 
 import os
 import time
 
-path = r'D:\Downloads\Download_5KPlayer\Neural Networks and Deep Learning'
+path = r'D:\Downloads\Neural Networks and Deep Learning'
 os.chdir(path)
 
 for file in os.listdir(path):
